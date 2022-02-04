@@ -1,0 +1,9 @@
+<Directives>
+  <Application>
+	<Assembly Name="ILSpy.Core">
+	   <Type Name="ICSharpCode.ILSpy.ILLanguage" Dynamic="Required All" />
+	   <Type Name="ICSharpCode.ILSpy.CSharpILMixedLanguage" Dynamic="Required All" />
+	   <Type Name="ICSharpCode.ILSpy.CSharpLanguage" Dynamic="Required All" />
+	</Assembly>
+  </Application>
+</Directives>
